@@ -3,24 +3,33 @@
   image: hermann.jpg
   website: https://hermannblum.net/
   email: blumh@uni-bonn.de
+  alumni: false
 
 - name: Simone Schlauf
   jobtitle: Operations
   email: schlauf@iai.uni-bonn.de
+  alumni: false
 
 - name: Sami Azirar
   jobtitle: PhD Student
   image: sami.jpg
   website: https://samiazirar.github.io
   email: sazirar@uni-bonn.de
+  alumni: false
 
 - name: Gülhan Sikaroglu
   jobtitle: PhD Student
   image: gulhan.jpg
   website: https://www.linkedin.com/in/gulhan-sikaroglu/
   email: guelhan.sikaroglu@rpl.uni-bonn.de
+  alumni: false
 
 - name: Rafay Mohiuddin
   jobtitle: PhD Student
   website: https://rafaymhddn.github.io
   email: rmohiudd@uni-bonn.de
+  alumni: false
+
+- name: Fujing Xie
+  jobtitle: Visiting PhD Student (Shanghai Tech)
+  alumni: true
