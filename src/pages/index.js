@@ -140,6 +140,7 @@ const Home = (props) => {
         <div className="container">
           <div className="section-heading pb-2">
             <h2>{"news"}</h2>
+            <Link to="/news">{"view_all"}</Link>
           </div>
           <div className="row">
             {props.data.allNewsYaml.nodes.map((news) => (
