@@ -33,3 +33,10 @@
 - name: Fujing Xie
   jobtitle: Visiting PhD Student (Shanghai Tech)
   alumni: true
+
+- name: Pavlo Kupyn
+  jobtitle: Research Assistant
+  image: pavlo.jpg
+  website: https://www.linkedin.com/in/pavlo-kupyn/
+  email: pavlo.kupyn@uni-bonn.de
+  alumni: false
