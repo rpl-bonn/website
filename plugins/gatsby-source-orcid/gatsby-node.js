@@ -14,14 +14,14 @@ exports.sourceNodes = async ({
   const { createNode } = actions
   // Download data from a remote API.
   const data = await fetch(
-    "https://pub.orcid.org/v2.1/0000-0002-1713-7877/works",
+    "https://pub.orcid.org/v3.0/0000-0002-1713-7877/works",
     { headers: { Accept: "application/json" } }
   )
   const dataResult = await data.json()
   await asyncForEach(dataResult.group, async item => {
     // get the detailed info
     const details = await fetch(
-      `https://pub.orcid.org/v2.1${item['work-summary'][0].path}`,
+      `https://pub.orcid.org/v3.0${item['work-summary'][0].path}`,
       { headers: { Accept: "application/json" } }
     )
     const detailsResult = await details.json()
