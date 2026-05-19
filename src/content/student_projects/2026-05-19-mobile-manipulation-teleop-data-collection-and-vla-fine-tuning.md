@@ -1,6 +1,6 @@
 ---
 title: Mobile Manipulation — Teleop, Data Collection & VLA Fine-Tuning
-type: bachelor thesis, master thesis
+type: bachelor thesis
 visible: true
 image: /Pasted image 20260427230641.png
 ---
