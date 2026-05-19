@@ -1,6 +1,6 @@
 ---
 title: Adaptive Lifelong 4D Spatial Understanding
-type: Masters Thesis
+type: master thesis
 visible: true
 image: /Pasted image 20260427225827.png
 ---
