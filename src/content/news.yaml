@@ -50,3 +50,7 @@
   message: We participated in ICRA with 8 workshop presentations, 1 RA-L paper, and 2 talks by Hermann.
   button_1_text: talk recording
   button_1_link: https://www.youtube.com/watch?v=3W7J-gDwJ8A&t=6161s
+- date: 2026-09-09
+  message: We are co-organizing an ECCV workshop on Force-Grounded Manipulation
+  button_1_text: Workshop Website
+  button_1_link: https://timengelbracht.github.io/Hoi-Dataset-Website/workshop.html
