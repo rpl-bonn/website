@@ -38,7 +38,7 @@
   button_1_link: https://autonomousrobots.nl/assets/images/workshops/2025_iros/accepted_papers/paper_8_Open.pdf
 - date: 2026-06-01
   message: We are co-organizing a Workshop at ICRA 2026 on Uncertainty in Open-World Robotics
-  button_1_text: Workshop Website
+  button_1_text: workshop website
   button_1_link: https://uncertainty-in-robotics.github.io/
 - date: 2026-02-21
   message: 2 Papers accepted to CVPR and 2 papers accepted to RA-L!
@@ -52,5 +52,5 @@
   button_1_link: https://www.youtube.com/watch?v=3W7J-gDwJ8A&t=6161s
 - date: 2026-09-09
   message: We are co-organizing an ECCV workshop on Force-Grounded Manipulation
-  button_1_text: Workshop Website
+  button_1_text: workshop website
   button_1_link: https://timengelbracht.github.io/Hoi-Dataset-Website/workshop.html
