@@ -46,7 +46,7 @@
   message: We will demonstrate our robot at the Bonn Science Night.
   button_1_text: more info
   button_1_link: https://lamarr-institute.org/events/bonn-science-night-2026-2/
-- date: 2026-06-01
+- date: 2026-06-02
   message: We participated in ICRA with 8 workshop presentations, 1 RA-L paper, and 2 talks by Hermann.
   button_1_text: talk recording
   button_1_link: https://www.youtube.com/watch?v=3W7J-gDwJ8A&t=6161s
@@ -54,3 +54,5 @@
   message: We are co-organizing an ECCV workshop on Force-Grounded Manipulation
   button_1_text: workshop website
   button_1_link: https://timengelbracht.github.io/Hoi-Dataset-Website/workshop.html
+- date: 2026-06-26
+  message: Yasmin Schmiede wins the Grace-Hopper-Award 🏆 for her master thesis. Congratulations!
