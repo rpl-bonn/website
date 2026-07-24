@@ -38,7 +38,21 @@
   button_1_link: https://autonomousrobots.nl/assets/images/workshops/2025_iros/accepted_papers/paper_8_Open.pdf
 - date: 2026-06-01
   message: We are co-organizing a Workshop at ICRA 2026 on Uncertainty in Open-World Robotics
-  button_1_text: Workshop Website
+  button_1_text: workshop website
   button_1_link: https://uncertainty-in-robotics.github.io/
 - date: 2026-02-21
   message: 2 Papers accepted to CVPR and 2 papers accepted to RA-L!
+- date: 2026-05-21
+  message: We will demonstrate our robot at the Bonn Science Night.
+  button_1_text: more info
+  button_1_link: https://lamarr-institute.org/events/bonn-science-night-2026-2/
+- date: 2026-06-02
+  message: We participated in ICRA with 8 workshop presentations, 1 RA-L paper, and 2 talks by Hermann.
+  button_1_text: talk recording
+  button_1_link: https://www.youtube.com/watch?v=3W7J-gDwJ8A&t=6161s
+- date: 2026-09-09
+  message: We are co-organizing an ECCV workshop on Force-Grounded Manipulation
+  button_1_text: workshop website
+  button_1_link: https://timengelbracht.github.io/Hoi-Dataset-Website/workshop.html
+- date: 2026-06-26
+  message: Yasmin Schmiede wins the Grace-Hopper-Award 🏆 for her master thesis. Congratulations!
