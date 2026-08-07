@@ -26,6 +26,10 @@ As a research engineer, you work with our robots and write stable software to de
 
 Currently we have no openings for Research Engineers.
 
+## PostDocs
+
+We are currently looking for a PostDoc to join our lab. If you are interested, please contact Hermann at blumh@uni-bonn.de
+
 ## Visiting PhDs / PostDocs
 
 In case that you want to visit Uni Bonn and our research group to collaborate for a duration of 6-12 months, the best option is to apply for corresponding funding through [the plenty existing scholarships](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/). If this is an interesting option to you, please contact blumh@uni-bonn.de. I am happy to support applications for exchange with our group.
