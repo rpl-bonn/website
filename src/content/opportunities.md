@@ -24,8 +24,6 @@ In case that you are interested in a PhD position in the lab, please indicate yo
 
 As a research engineer, you work with our robots and write stable software to deploy cutting edge AI systems in the real world. Candidates should have excellent grades and should be enrolled into a Master program at Uni Bonn. Good experience in python is required, in one of ROS, pytorch, or C++ preferred.
 
-Currently we have no openings for Research Engineers.
-
 ## PostDocs
 
 We are currently looking for a PostDoc to join our lab. If you are interested, please contact Hermann at blumh@uni-bonn.de
